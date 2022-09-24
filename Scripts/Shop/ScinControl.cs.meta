@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8c11bfcf1ea13a447a446f9e4fed13c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buyButton: {instanceID: 0}
+  - iLock: {instanceID: 0}
+  - buySkin: {fileID: 21300000, guid: 4b08c7288e183654a82fe6ae11f8194f, type: 3}
+  - equipped: {fileID: 21300000, guid: d9d780f9cdae7434287acac831a7c0aa, type: 3}
+  - equip: {fileID: 21300000, guid: d9d780f9cdae7434287acac831a7c0aa, type: 3}
+  - falseLock: {fileID: 21300000, guid: 0a9a6e09c4cdb154291363e97ba9358d, type: 3}
+  - trueLock: {fileID: 21300000, guid: 856f91f6ac546e940b632ef01dac1d91, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
