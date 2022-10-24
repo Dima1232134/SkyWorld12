@@ -13,7 +13,7 @@ public class AnimationsWin : MonoBehaviour
     {
         if (col.tag == "Player")
         {
-            Obj.GetComponent<Animation>().Play(NameAnimation);
+            Obj.GetComponent<Animator>().Play(NameAnimation);
         }
     }
 }
